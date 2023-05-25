@@ -9,7 +9,6 @@
 - <b>Cloud Computing</b>
   - [Microsoft Azure: Configuring On-premises Active Directory](https://github.com/FranklinLinniman/configure-ad)
   - [Amazon Web Services (AWS): Virtual Machine Configuration](https://github.com/FranklinLinniman/vm-config)
-- <b>Practice Activities</b>
   - [Inspecting Network Protocols](https://github.com/FranklinLinniman/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
