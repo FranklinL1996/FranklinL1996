@@ -10,6 +10,7 @@
   - [Microsoft Azure: Creating Virtual Machines](https://github.com/FranklinLinniman/azure-vm-config)
   - [Microsoft Azure: Configuring On-premises Active Directory](https://github.com/FranklinLinniman/configure-ad)
   - [Microsoft Azure: Inspecting Network Protocols](https://github.com/FranklinLinniman/azure-network-protocols)
+  - [Microsoft Azure: Creating an EC2 Instance](https://github.com/FranklinLinniman/azure-vm-config)
   - [Amazon Web Services (AWS): Creating a Homelab](https://github.com/FranklinLinniman/vm-config)
 
 <h2>🤳Connect with me:</h2>
