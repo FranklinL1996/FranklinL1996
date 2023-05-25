@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/FranklinLinniman/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/FranklinLinniman/ticket-lifecycle)
 - <b>Cloud Computing</b>
-  - [Microsoft Azure: Create Virtual Machines]()
+  - [Microsoft Azure: Create Virtual Machines](https://github.com/FranklinLinniman/azure-vm-config)
   - [Microsoft Azure: Configuring On-premises Active Directory](https://github.com/FranklinLinniman/configure-ad)
   - [Microsoft Azure: Inspecting Network Protocols](https://github.com/FranklinLinniman/azure-network-protocols)
   - [Amazon Web Services (AWS): Creating a Homelab](https://github.com/FranklinLinniman/vm-config)
