@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/FranklinLinniman/configure-ad)
   - [Inspecting Network Protocols](https://github.com/FranklinLinniman/azure-network-protocols)
 - <b>IT Basics Series</b>
-  - [Virtual Machine Configuration](https://github.com/FranklinLinniman/vm-config)
+  - [Microsoft Azure: Virtual Machine Configuration](https://github.com/FranklinLinniman/vm-config)
 
 <h2>🤳Connect with me:</h2>
 
