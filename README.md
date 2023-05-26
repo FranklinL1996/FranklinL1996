@@ -6,13 +6,10 @@
   - [osTicket: Prerequisites and Installation](https://github.com/FranklinLinniman/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/FranklinLinniman/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/FranklinLinniman/ticket-lifecycle)
-- <b>Azure Cloud Computing</b>
-  - [Microsoft Azure: Creating Virtual Machines](https://github.com/FranklinLinniman/azure-vm-config)
-  - [Microsoft Azure: Configuring On-premises Active Directory](https://github.com/FranklinLinniman/configure-ad)
-  - [Microsoft Azure: Inspecting Network Protocols](https://github.com/FranklinLinniman/azure-network-protocols)
-- <b>AWS Cloud Computing</b>
-  - [Amazon Web Services (AWS): Creating an EC2 Instance](https://github.com/FranklinLinniman/aws-ec2-instance-)
-  - [Amazon Web Services (AWS): Homelab Set Up](https://github.com/FranklinLinniman/vm-config)
+- <b>Microsoft Azure</b>
+  - [Creating Virtual Machines](https://github.com/FranklinLinniman/azure-vm-config)
+  - [Configuring On-premises Active Directory](https://github.com/FranklinLinniman/configure-ad)
+  - [Inspecting Network Protocols](https://github.com/FranklinLinniman/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
