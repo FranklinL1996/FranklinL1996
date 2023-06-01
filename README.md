@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines](https://github.com/FranklinLinniman/azure-vm-config)
   - [Configuring On-premises Active Directory](https://github.com/FranklinLinniman/configure-ad)
-  - [Inspecting Network Protocols](https://github.com/FranklinLinniman/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/FranklinLinniman/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
