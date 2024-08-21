@@ -1,14 +1,8 @@
-<h1>Hi, I'm Franklin, an <a href="https://www.linkedin.com/in/franklin-linniman/">IT Professional</a></h1>
+<h1>Hi, I'm Franklin, a <a href="https://www.linkedin.com/in/franklin-linniman/">Networking Professional</a></h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
-- <b>Ticketing Systems</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/FranklinLinniman/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/FranklinLinniman/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/FranklinLinniman/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Creating Virtual Machines](https://github.com/FranklinLinniman/azure-vm-config)
-  - [Configuring On-premises Active Directory](https://github.com/FranklinLinniman/configure-ad)
+- <b>Networking</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/FranklinLinniman/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
